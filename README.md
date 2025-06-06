@@ -127,7 +127,3 @@ python generate_wordcloud.py
 - 处理大文件时可能需要较长时间，请耐心等待
 - 可以根据需要修改 `stopwords.txt` 来自定义停用词列表
 - 词云生成时使用的字体需要根据系统环境调整
-
-## 许可证
-
-MIT License 
